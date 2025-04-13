@@ -89,7 +89,7 @@
         </header>
         
         <div class="menu-container">
-            <a href="https://www.google.com" class="menu-item">
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLSdgU-3mybGRR_K-7eO6__I9P7Xrh0WeXE_A9mRVMbwz2iqAYQ/viewform?usp=header" class="menu-item">
                 <div class="icon">G</div>
                 <h3>Google</h3>
             </a>
